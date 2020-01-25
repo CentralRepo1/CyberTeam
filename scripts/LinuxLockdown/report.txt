@@ -1,0 +1,259 @@
+----------------------------------------------------
+Enumeration report for Wed Jan 22 19:51:49 UTC 2020
+----------------------------------------------------
+
+
+ 
+		SYSTEM SUMMARY 
+Hostname:			vagrant 
+Operating System:		GNU/Linux 
+Distribution:			Ubuntu 
+Version:                       "18.04" 
+Kernal Name: 			Linux 
+Kernel Release:			4.15.0-58-generic 
+Kernel Version: 		#64-Ubuntu SMP Tue Aug 6 11:12:41 UTC 2019 
+System Architecture:		x86_64 
+
+ 
+		NETWORK INTERFACE SUMMARY 
+lo:
+00:00:00:00:00:00
+127.0.0.1/8
+::1/128
+eth0:
+08:00:27:bb:14:75
+10.0.2.15/24
+fe80::a00:27ff:febb:1475/64 
+
+ 
+		DNS SERVER SUMMARY 
+127.0.0.53 
+
+ 
+
+        	USERS WITH SUDO PRIVILEGES 
+ 
+mail 
+
+        	GROUPS WITH SUDO PRIVILEGES 
+ 
+adm 
+Users in adm group:   syslog,vagrant
+   vagrant
+ 
+mail 
+Users in mail group:   
+ 
+sudo 
+Users in sudo group:   vagrant
+ 
+
+ 
+
+----------------------------------------------------
+Enumeration report for Wed Jan 22 19:54:12 UTC 2020
+----------------------------------------------------
+
+
+ 
+		SYSTEM SUMMARY 
+Hostname:			vagrant 
+Operating System:		GNU/Linux 
+Distribution:			Ubuntu 
+Version:                       "18.04" 
+Kernal Name: 			Linux 
+Kernel Release:			4.15.0-58-generic 
+Kernel Version: 		#64-Ubuntu SMP Tue Aug 6 11:12:41 UTC 2019 
+System Architecture:		x86_64 
+
+ 
+		NETWORK INTERFACE SUMMARY 
+lo:
+00:00:00:00:00:00
+127.0.0.1/8
+::1/128
+eth0:
+08:00:27:bb:14:75
+10.0.2.15/24
+fe80::a00:27ff:febb:1475/64 
+
+ 
+		DNS SERVER SUMMARY 
+127.0.0.53 
+
+ 
+
+        	USERS WITH SUDO PRIVILEGES 
+ 
+mail 
+
+        	GROUPS WITH SUDO PRIVILEGES 
+ 
+adm 
+Users in adm group:   syslog,vagrant
+   vagrant
+ 
+mail 
+Users in mail group:   
+ 
+sudo 
+Users in sudo group:   vagrant
+ 
+
+ 
+----------------------------------------------------
+Enumeration report for Wed Jan 22 19:56:00 UTC 2020
+----------------------------------------------------
+
+
+ 
+		SYSTEM SUMMARY 
+Hostname:			vagrant 
+Operating System:		GNU/Linux 
+Distribution:			Ubuntu 
+Version:                       "18.04" 
+Kernal Name: 			Linux 
+Kernel Release:			4.15.0-58-generic 
+Kernel Version: 		#64-Ubuntu SMP Tue Aug 6 11:12:41 UTC 2019 
+System Architecture:		x86_64 
+
+ 
+		NETWORK INTERFACE SUMMARY 
+lo:
+00:00:00:00:00:00
+127.0.0.1/8
+::1/128
+eth0:
+08:00:27:bb:14:75
+10.0.2.15/24
+fe80::a00:27ff:febb:1475/64 
+
+ 
+		DNS SERVER SUMMARY 
+127.0.0.53 
+
+ 
+
+        	USERS WITH SUDO PRIVILEGES 
+ 
+mail 
+
+        	GROUPS WITH SUDO PRIVILEGES 
+ 
+adm 
+Users in adm group:   syslog,vagrant
+   vagrant
+ 
+mail 
+Users in mail group:   
+ 
+sudo 
+Users in sudo group:   vagrant
+ 
+
+ 
+
+----------------------------------------------------
+Enumeration report for Wed Jan 22 20:20:37 UTC 2020
+----------------------------------------------------
+
+
+ 
+		SYSTEM SUMMARY 
+Hostname:			vagrant 
+Operating System:		GNU/Linux 
+Distribution:			Ubuntu 
+Version:                       "18.04" 
+Kernal Name: 			Linux 
+Kernel Release:			4.15.0-58-generic 
+Kernel Version: 		#64-Ubuntu SMP Tue Aug 6 11:12:41 UTC 2019 
+System Architecture:		x86_64 
+
+ 
+		NETWORK INTERFACE SUMMARY 
+lo:
+00:00:00:00:00:00
+127.0.0.1/8
+::1/128
+eth0:
+08:00:27:bb:14:75
+10.0.2.15/24
+fe80::a00:27ff:febb:1475/64 
+
+ 
+		DNS SERVER SUMMARY 
+127.0.0.53 
+
+ 
+
+        	USERS WITH SUDO PRIVILEGES 
+ 
+mail 
+
+        	GROUPS WITH SUDO PRIVILEGES 
+ 
+adm 
+Users in adm group:   syslog,vagrant
+   vagrant
+ 
+mail 
+Users in mail group:   
+ 
+sudo 
+Users in sudo group:   vagrant
+ 
+
+ 
+
+----------------------------------------------------
+Enumeration report for Wed Jan 22 20:22:05 UTC 2020
+----------------------------------------------------
+
+
+ 
+		SYSTEM SUMMARY 
+Hostname:			vagrant 
+Operating System:		GNU/Linux 
+Distribution:			Ubuntu 
+Version:                       "18.04" 
+Kernal Name: 			Linux 
+Kernel Release:			4.15.0-58-generic 
+Kernel Version: 		#64-Ubuntu SMP Tue Aug 6 11:12:41 UTC 2019 
+System Architecture:		x86_64 
+
+ 
+		NETWORK INTERFACE SUMMARY 
+lo:
+00:00:00:00:00:00
+127.0.0.1/8
+::1/128
+eth0:
+08:00:27:bb:14:75
+10.0.2.15/24
+fe80::a00:27ff:febb:1475/64 
+
+ 
+		DNS SERVER SUMMARY 
+127.0.0.53 
+
+ 
+
+        	USERS WITH SUDO PRIVILEGES 
+ 
+mail 
+
+        	GROUPS WITH SUDO PRIVILEGES 
+ 
+adm 
+Users in adm group:   syslog,vagrant
+   vagrant
+ 
+mail 
+Users in mail group:   
+ 
+sudo 
+Users in sudo group:   vagrant
+ 
+
+ 
+
