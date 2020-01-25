@@ -5,7 +5,8 @@
 > pacman package manager (Arch Linux) functionality coming soon.  
 
 # Instructions  
-> git clone https://gitlab.com/Omer.Tech/LinuxLockdown.git  
+> git clone https://github.com/CentralRepo1/CyberTeam.git  
+> cd Tools
 > chmod +x -R LinuxLockdown  
 > ./LinuxLockdown/lockdown.sh  
 > (Must be run as root or with sudo)  
