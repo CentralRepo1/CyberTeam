@@ -17,7 +17,7 @@
     ·
     <a href="https://gitlab.com/Omer.Tech/LinuxLockdown/issues">Request Feature</a>
     ·
-    <a href="https://gitlab.com/Omer.Tech/LinuxLockdown/pulls">Send a Pull Request</a>
+    <a href="https://gitlab.com/Omer.Tech/LinuxLockdown/-/merge_requests">Send a Pull Request</a>
   </p>
 </p>
 
@@ -53,7 +53,7 @@ This shell script can:
 * Configure SSH with either a key-based or password-based authentication, based on the user's choice.  
 * Install Uncomplicated Firewall (ufw).
 * Configure firewall to allow previously configured services through.  
-* Confiire firewall to drop all other connections, or add other exceptions if desired.  
+* Configure firewall to drop all other connections, or add other exceptions if desired.  
 * Generates enumeration report of machine to ./report.txt  
 * Generates log report of what the script accomplished to ./log.txt  
   
@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Omer Turhan - [my website](https://omer.tech) - omer.turhan@outlook.com
+Omer Turhan | [LinkedIn](https://www.linkedin.com/in/omer-turhan/) | [My Website](https://omer.tech) | [Email Me](mailto:omer.turhan@outlook.com)
 
 Project Link: [https://gitlab.com/Omer.Tech/LinuxLockdown](https://gitlab.com/Omer.Tech/LinuxLockdown)
 
@@ -154,3 +154,4 @@ Project Link: [https://gitlab.com/Omer.Tech/LinuxLockdown](https://gitlab.com/Om
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate/) 
+* [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/course/linux-shell-scripting-projects/)
